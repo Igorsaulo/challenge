@@ -1,0 +1,23 @@
+{
+  "translation":{
+    "Nome":"Name",
+    "Subtitulo":"Subtitle",
+    "Descrição":"Description",
+    "Preço":"Price",
+    "Salvar":"Save",
+    "Criar":"Create",
+    "Editar":"Edit",
+    "Inicio":"Home",
+    "Novo Nome":"New Name",
+    "Novo Subtitulo":"New Subtitle",
+    "Nova Descrição":"New Description",
+    "Novo Preço":"New Price",
+    "Editar Produto":"Edit Product",
+    "Atualizar":"Update",
+    "Nome Atual":"Current Name",
+    "Subtitulo Atual":"Current Subtitle",
+    "Descrição Atual":"Current Description",
+    "Preço Atual":"Current Price",
+    "Ações":"Actions"
+  }
+}

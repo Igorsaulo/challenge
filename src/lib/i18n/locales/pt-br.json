@@ -1,0 +1,23 @@
+{
+  "translation":{
+    "Nome":"Nome",
+    "Subtitulo":"Subtitulo",
+    "Descrição":"Descrição",
+    "Preço":"Preço",
+    "Salvar":"Save",
+    "Criar":"Criar",
+    "Editar":"Editar",
+    "Inicio":"Inicio",
+    "Novo Nome":"Novo Nome",
+    "Novo Subtitulo":"Novo Subtitulo",
+    "Nova Descrição":"Nova Descrição",
+    "Novo Preço":"Novo Preço",
+    "Editar Produto":"Editar Produto",
+    "Atualizar":"Atualizar",
+    "Nome Atual":"Nome Atual",
+    "Subtitulo Atual":"Subtitulo Atual",
+    "Descrição Atual":"Descrição Atual",
+    "Preço Atual":"Preço Atual",
+    "Ações":"Ações"
+  }
+}
